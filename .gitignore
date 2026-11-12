@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+*.pcap
+*.pcapng
+*.csv
+*.gz
+cicids2017_raw/
+lab_pcap/
+lab_flow_raw/
+live_capture/
+live_flow_csv/
+live_in/
+.gradle/
+.env
+*.key
+credentials*.json
